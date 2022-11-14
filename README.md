@@ -1,5 +1,6 @@
 # IBM-Project-15304-1659596911
 IBM-Project-15304-1659596911
+
 Crude Oil Price Prediction:
 
 Oil demand is inelastic, therefore the rise in price is good news for producers because they will see an increase in their revenue. Oil importers, however, will experience increased costs of purchasing oil. Because oil is the largest traded commodity, the effects are quite significant. A rising oil price can even shift economic/political power from oil importers to oil exporters. The crude oil price movements are subject to diverse influencing factors.
@@ -82,4 +83,5 @@ Prior Knowledge:
 4.Flask.
 
 Project Structure
-image
+![image](https://user-images.githubusercontent.com/114042973/201718630-dc516174-8b46-4d0f-a3fe-96ba463d8e15.png)
+
